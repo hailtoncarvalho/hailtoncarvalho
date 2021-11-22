@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hailtoncarvalho
-- 👀 I’m interested in front end frameworks, machine learning, data mining, operational research, combinatorial optimisation and cryptocurrency
-- 🌱 I’m currently learning VueJs and NextJS
-- 💞️ I’m looking to collaborate on a job in a company with values and cultures in line with mine, that offers great challenges, with good remuneration and growth opportunities
+- 👀 I’m interested in quality assurance, front end frameworks, machine learning, data mining, operational research, combinatorial optimisation and cryptocurrency
+- 🌱 I’m currently learning Automated Test Framework
 - 📫 How to reach me https://www.linkedin.com/in/hailton/
 
 <!---
